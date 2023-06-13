@@ -90,7 +90,7 @@ Sure, here is the table you requested:
 ### Overview
 
 
-| Class # | Noun Prefix | Verb Prefix | Adjective | Demonstrative | Possessive | None | Few | Many | Another | Any | All | Example |
+| Class # | Noun Prefix | Verb Prefix | Adj. | Dem. | Poss. | None | Few | Many | Another | Any | All | Example |
 |---------|-------------|-------------|-----------|---------------|------------|------|-----|------|---------|-----|-----|---------|
 | 1       | M-          | N/A         | Mrefu     | Huu/Hii       | Wangu      | Hakuna | Vichache | Vingi | Kingine | Yoyote | Vyote | Nyumba hii ni mrefu. (This house is tall.) |
 | 2       | Wa-         | Wa-         | Wengi     | Hawa          | Wao        | Hawana | Wachache | Wengi | Wengine | Yoyote | Wote | Watoto hawa ni wengi. (These children are many.) |
