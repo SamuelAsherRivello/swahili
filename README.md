@@ -103,9 +103,9 @@ Sure, here is the table you requested:
 | 9       | N-          | N-          | Ndogo     | Hilo          | Yangu      | Halina | Machache | Mengi | Mengine | Yoyote | Yote | Nyumba hilo ni ndogo. (That house is small.) |
 | 10      | Zi-         | Zi-         | Zaidi     | Hizo          | Zangu      | Hazina | Chache | Nyingi | Nyingine | Yoyote | Zote | Zawadi hizo ni zaidi. (Those gifts are more.) |
 | 11      | U-          | U-          | Mzuri     | Huu/Huo       | Wangu      | Haukuna | Pichache | Pengi | Jengine | Yoyote | Zote | Upepo huu ni mzuri. (This wind is good.)
-| 12      | N/A         | Infinitives | Kubwa     | Hii           | Yangu      | Hakuna | Chache | Nyingi | Nyingine | Yoyote | Zote | Kazi hii ni kubwa. (This work is big.) |
-| 13      | N/A         | Infinitives | Nyingi    | Hiyo          | Yangu      | Haina | Chache | Nyingi | Nyingine | Yoyote | Zote | Shida hiyo ni nyingi. (That problem is many.) |
-| 14      | N/A         | Infinitives | Nyingi    | Hizo          | Zangu      | Hazina | Chache | Nyingi | Nyingine | Yoyote | Zote | Tofauti hizo ni nyingi. (Those differences are many.) |
+| 12      | N/A         | inf. | Kubwa     | Hii           | Yangu      | Hakuna | Chache | Nyingi | Nyingine | Yoyote | Zote | Kazi hii ni kubwa. (This work is big.) |
+| 13      | N/A         | inf. | Nyingi    | Hiyo          | Yangu      | Haina | Chache | Nyingi | Nyingine | Yoyote | Zote | Shida hiyo ni nyingi. (That problem is many.) |
+| 14      | N/A         | inf. | Nyingi    | Hizo          | Zangu      | Hazina | Chache | Nyingi | Nyingine | Yoyote | Zote | Tofauti hizo ni nyingi. (Those differences are many.) |
 
 Please note that the adjectives provided are just examples, and there are many more adjectives that can be used within each noun class.
 
