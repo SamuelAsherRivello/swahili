@@ -24,7 +24,7 @@ The text summarizes the first 80 hours of Swahili class from https://museums.or.
 
 ## Grammar
 
-### Verb formation (Active)
+### Verb Formation (Active)
 
 #### Affirmative
 
@@ -53,9 +53,9 @@ Sure, here is the table you requested:
 | Wao     | They    | Wao hawakula chakula | Wao hawajakula chakula | Wao hawanakula chakula | Wao hawatakula chakula |
 
 
-### Verb formation (Passive)
+### Verb Formation (Passive)
 
-#### Passive
+#### Affirmative
 
 | Swahili | English | Example (Liwa) | Example (Mewa) | Example (Nawa) | Example (Tawa) |
 |---------|---------|----------------|----------------|----------------|----------------|
