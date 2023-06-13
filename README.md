@@ -125,11 +125,10 @@ Sure, here is the table you requested:
 | 14 | U-/N- | Plural of class 13 | uwanja (fields), nchi (lands), ufukweni (at the beaches), ndani (insides), nje (outsides), ukutanini (on the walls), usawanini (on the floors), uwanjani (at the fields), ufukweni (at the coasts), upande (sides), umoja (unities), ukutani (on the walls), upanuzi (expansions), uchafuzi (pollutions), upakani (on the edges), upanuzi (expansions), umoja (unities), ukutani (on the walls), upanuzi (expansions), uchafuzi (pollutions) |
 
 
-### Dictionary
+### Frequency Dictionary
 
-Here are the top words in Swahili in order of frequency of usage.
+Here is vocabulary with **most frequently used** at the top.
 
-Here is a table listing the top 100 most frequently used words in Swahili, along with their English translations:
 
 | Rank | English      | Swahili           |
 |------|--------------|-------------------|
