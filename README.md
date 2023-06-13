@@ -24,29 +24,46 @@ The text summarizes the first 80 hours of Swahili class from https://museums.or.
 
 ## Grammar
 
-### Verb formation
+### Verb formation (Active)
 
 #### Affirmative
 
-| English | Swahili | Example (Li) | Example (Me) | Example (Na) | Example (Ta) |
+Certainly, here is the table you requested:
+
+| Swahili | English | Example (Li) | Example (Me) | Example (Na) | Example (Ta) |
 |---------|---------|--------------|--------------|--------------|--------------|
-| I | Mimi | Nilikula chakula. | Nilimeza chakula. | Ninakula chakula. | Nitakula chakula. |
-| You (singular) | Wewe | Ulikula chakula. | Ulimeza chakula. | Unakula chakula. | Utakula chakula. |
-| He/She | Yeye | Alikula chakula. | Alimeza chakula. | Anakula chakula. | Atakula chakula. |
-| We | Sisi | Tulikula chakula. | Tulimeza chakula. | Tunakula chakula. | Tutakula chakula. |
-| You (plural) | Ninyi | Mlikula chakula. | Mlimeza chakula. | Mnakula chakula. | Mtakula chakula. |
-| They | Wao | Walikula chakula. | Walimeza chakula. | Wanakula chakula. | Watakula chakula. |
+| Mimi    | I       | Mimi nilikula chakula | Mimi nimekula chakula | Mimi ninakula chakula | Mimi nitakula chakula |
+| Wewe    | You     | Wewe ulikula chakula | Wewe umekula chakula | Wewe unakula chakula | Wewe utakula chakula |
+| Yeye    | He/She  | Yeye alikula chakula | Yeye amekula chakula | Yeye anakula chakula | Yeye atakula chakula |
+| Sisi    | We      | Sisi tulikula chakula | Sisi tumekula chakula | Sisi tunakula chakula | Sisi tutakula chakula |
+| Ninyi   | You (Plural) | Ninyi mlikula chakula | Ninyi mmekula chakula | Ninyi mnakula chakula | Ninyi mtakula chakula |
+| Wao     | They    | Wao walikula chakula | Wao wamekula chakula | Wao wanakula chakula | Wao watakula chakula |
+
 
 #### Negative
+Sure, here is the table you requested:
 
-| English | Swahili | Example (Li) | Example (Me) | Example (Na) | Example (Ta) |
-|---------|---------|--------------|--------------|--------------|--------------|
-| I | Mimi | Sikula chakula. | Sijameza chakula. | Sina kula chakula. | Sitakula chakula. |
-| You (singular) | Wewe | Hukula chakula. | Hujameza chakula. | Huna kula chakula. | Hutakula chakula. |
-| He/She | Yeye | Hakula chakula. | Hajameza chakula. | Hana kula chakula. | Hatakula chakula. |
-| We | Sisi | Hatukula chakula. | Hatujameza chakula. | Hatuna kula chakula. | Hatutakula chakula. |
-| You (plural) | Ninyi | Hamkula chakula. | Hamjameza chakula. | Hamna kula chakula. | Hamtakula chakula. |
-| They | Wao | Hawakula chakula. | Hawajameza chakula. | Hawana kula chakula. | Hawatakula chakula. |
+| Swahili | English | Example (Si) | Example (Haja) | Example (Ha) | Example (Hata) |
+|---------|---------|--------------|----------------|--------------|----------------|
+| Mimi    | I       | Mimi sikula chakula | Mimi sijakula chakula | Mimi sinala chakula | Mimi sitakula chakula |
+| Wewe    | You     | Wewe hukula chakula | Wewe hujakula chakula | Wewe hunakula chakula | Wewe hutakula chakula |
+| Yeye    | He/She  | Yeye hakula chakula | Yeye hajakula chakula | Yeye hanakula chakula | Yeye hatakula chakula |
+| Sisi    | We      | Sisi hatukula chakula | Sisi hatujakula chakula | Sisi hatunakula chakula | Sisi hatutakula chakula |
+| Ninyi   | You (Plural) | Ninyi hamkula chakula | Ninyi hamjakula chakula | Ninyi hamnakula chakula | Ninyi hamtakula chakula |
+| Wao     | They    | Wao hawakula chakula | Wao hawajakula chakula | Wao hawanakula chakula | Wao hawatakula chakula |
+
+
+### Verb formation (Passive)
+
+#### Passive
+
+| Swahili | English | Example (Liwa) | Example (Mewa) | Example (Nawa) | Example (Tawa) |
+|---------|---------|----------------|----------------|----------------|----------------|
+| Chakula | The food | Chakula kiliwa | Chakula kimekuliwa | Chakula kinakuliwa | Chakula kitakuliwa |
+| Maji | The water | Maji yaliwa | Maji yamekunywewa | Maji yanakunywewa | Maji yatakunywewa |
+| Kazi | The work | Kazi iliwa | Kazi imefanyiwa | Kazi inafanyiwa | Kazi itafanyiwa |
+| Habari | The news | Habari ziliwa | Habari zimekuzwewa | Habari zinakuzwewa | Habari zitakuzwewa |
+| Wimbo | The song | Wimbo uliwa | Wimbo umekimbizwa | Wimbo unakimbizwa | Wimbo utakimbizwa |
 
 
 ### Questions
