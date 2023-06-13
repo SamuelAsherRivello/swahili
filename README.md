@@ -90,7 +90,7 @@ Sure, here is the table you requested:
 ### Overview
 
 
-| Class # | Noun | Verb | Adj. | Dem. | Poss. | None | Few | Many | Another | Any | All | Example |
+| # | Noun | Verb | Adj. | Dem. | Poss. | None | Few | Many | Another | Any | All | Example |
 |---------|-------------|-------------|-----------|---------------|------------|------|-----|------|---------|-----|-----|---------|
 | 1       | M-          | N/A         | Mrefu     | Huu/Hii       | Wangu      | Hakuna | Vichache | Vingi | Kingine | Yoyote | Vyote | Nyumba hii ni mrefu. (This house is tall.) |
 | 2       | Wa-         | Wa-         | Wengi     | Hawa          | Wao        | Hawana | Wachache | Wengi | Wengine | Yoyote | Wote | Watoto hawa ni wengi. (These children are many.) |
@@ -111,7 +111,7 @@ Please note that the adjectives provided are just examples, and there are many m
 
 ### Vocabulary
 
-| Class # | Noun Prefix | Category | Examples |
+| # | Noun Prefix | Category | Examples |
 |---|---|---|---|
 | 1 | M-/Mu- | People, professions, animate entities | mwalimu (teacher), mwanafunzi (student), mtoto (child), mgeni (guest), muuguzi (nurse), mvulana (boy), mwanamke (woman), mzee (elder), msichana (girl), mfalme (king), mume (husband), mtumishi (servant), mke (wife), mkulima (farmer), mzazi (parent), mpendwa (beloved), mfanyakazi (worker), mpenzi (lover), mtu (person), mwanaume (man) |
 | 2 | Wa- | Plural of class 1 | walimu (teachers), wanafunzi (students), watoto (children), wageni (guests), wauguzi (nurses), wavulana (boys), wanawake (women), wazee (elders), wasichana (girls), wafalme (kings), wanaume (men), watu (people) |
