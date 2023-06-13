@@ -105,6 +105,29 @@ Sure, here is the table you requested:
 | 14 | U- | U- | M- | Huu (this), Ule (that) | Wangu | Wote | Mwingine | Uzuri huu unatembea. (This beauty is walking.) |
 | 15 | Ku- | Ku- | - | - | - | - | - | Kuenda ni vizuri. (To go is nice.) |
 
+Apologies for the oversight. Here's the updated table with exemplary adjectives included:
+
+| Class # | Noun Prefix | Verb Prefix | Adjective | Demonstrative | Possessive | None | Few | Many | Another | Any | All | Example |
+|---------|-------------|-------------|-----------|---------------|------------|------|-----|------|---------|-----|-----|---------|
+| 1       | M-          | N/A         | Mrefu     | Huu/Hii       | Wangu      | Hakuna | Vichache | Vingi | Kingine | Yoyote | Vyote | Nyumba hii ni mrefu. (This house is tall.) |
+| 2       | Wa-         | Wa-         | Wengi     | Hawa          | Wao        | Hawana | Wachache | Wengi | Wengine | Yoyote | Wote | Watoto hawa ni wengi. (These children are many.) |
+| 3       | M-          | N-          | Mzuri     | Huyo          | Yangu      | Hana | Wachache | Wengi | Mwingine | Yoyote | Wote | Mbwa huyo ni mzuri. (That dog is beautiful.) |
+| 4       | Mi-         | I-          | Midogo    | Hiyo          | Yangu      | Haina | Michache | Mingi | Nyingine | Yoyote | Vyote | Vitabu hivi ni vidogo. (These books are small.) |
+| 5       | Ji-         | Ji-         | Jepesi    | Hili          | Langu      | Halina | Chache | Vingi | Jengine | Yoyote | Vyote | Jina hili ni jepesi. (This name is easy.) |
+| 6       | Ma-         | Ma-         | Makubwa   | Hayo          | Yangu      | Hayana | Machache | Mengi | Mengine | Yoyote | Yote | Maji haya ni makubwa. (These water is big.) |
+| 7       | Ki-         | Ki-         | Kidogo    | Hiki          | Changu     | Hakina | Vichache | Vingi | Kingine | Yoyote | Vyote | Kitabu hiki ni kidogo. (This book is small.) |
+| 8       | Vi-         | Vi-         | Vingi     | Hivi          | Vyangu     | Havina | Vichache | Vingi | Vingine | Yoyote | Vyote | Viti hivi ni vingi. (These chairs are many.) |
+| 9       | N-          | N-          | Ndogo     | Hilo          | Yangu      | Halina | Machache | Mengi | Mengine | Yoyote | Yote | Nyumba hilo ni ndogo. (That house is small.) |
+| 10      | Zi-         | Zi-         | Zaidi     | Hizo          | Zangu      | Hazina | Chache | Nyingi | Nyingine | Yoyote | Zote | Zawadi hizo ni zaidi. (Those gifts are more.) |
+| 11      | U-          | U-          | Mzuri     | Huu/Huo       | Wangu      | Haukuna | Pichache | Pengi | Jengine | Yoyote | Zote | Upepo huu ni mzuri. (This wind is good.)
+
+ |
+| 12      | N/A         | Infinitives | Kubwa     | Hii           | Yangu      | Hakuna | Chache | Nyingi | Nyingine | Yoyote | Zote | Kazi hii ni kubwa. (This work is big.) |
+| 13      | N/A         | Infinitives | Nyingi    | Hiyo          | Yangu      | Haina | Chache | Nyingi | Nyingine | Yoyote | Zote | Shida hiyo ni nyingi. (That problem is many.) |
+| 14      | N/A         | Infinitives | Nyingi    | Hizo          | Zangu      | Hazina | Chache | Nyingi | Nyingine | Yoyote | Zote | Tofauti hizo ni nyingi. (Those differences are many.) |
+
+Please note that the adjectives provided are just examples, and there are many more adjectives that can be used within each noun class.
+
 ### Vocabulary
 
 | Class # | Noun Prefix | Category | Examples |
@@ -123,6 +146,7 @@ Sure, here is the table you requested:
 | 12 | N/A | Infinitives of verbs | kuenda (to go), kula (to eat), kunywa (to drink), kusoma (to read), kuimba (to sing), kukimbia (to run), kuogelea (to swim), kupika (to cook), kusaidia (to help), kufanya (to do), kucheza (to play), kuandika (to write), kujifunza (to learn), kusafiri (to travel), kuongea (to speak), kupanda (to climb), kufikiria (to think), kuota (to dream), kulala (to sleep), kuchora (to draw) |
 | 13 | U-/N- | Locative class, various locations | uwanja (field), nchi (land), ufukweni (at the beach), ndani (inside), nje (outside), ukutanini (on the wall), usawanini (on the floor), uwanjani (at the field), ufukweni (at the coast), upande (side), umoja (unity), ukutani (on the wall), upanuzi (expansion), uchafuzi (pollution), upakani (on the edge), upanuzi (expansion), umoja (unity), ukutani (on the wall), upanuzi (expansion), uchafuzi (pollution) |
 | 14 | U-/N- | Plural of class 13 | uwanja (fields), nchi (lands), ufukweni (at the beaches), ndani (insides), nje (outsides), ukutanini (on the walls), usawanini (on the floors), uwanjani (at the fields), ufukweni (at the coasts), upande (sides), umoja (unities), ukutani (on the walls), upanuzi (expansions), uchafuzi (pollutions), upakani (on the edges), upanuzi (expansions), umoja (unities), ukutani (on the walls), upanuzi (expansions), uchafuzi (pollutions) |
+
 
 
 ### Frequency Dictionary
