@@ -89,23 +89,6 @@ Sure, here is the table you requested:
 
 ### Overview
 
-| Class # | Noun Prefix | Verb Prefix | Adjective | Demonstrative (this, that) | Possessive | All | Another | Example |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | M- | A- | M- | Huyu (this), Yule (that) | Wangu | Wote | Mwingine | Mtu mkubwa huyu anatembea. (This big person is walking.) |
-| 2 | Wa- | Wa- | Wa- | Hawa (these), Wale (those) | Wao | Wote | Wengine | Watu wadogo hawa wanatembea. (These small people are walking.) |
-| 3 | M- | U- | M- | Huu (this), Ule (that) | Wangu | Wote | Mwingine | Mti mkubwa huu unakua. (This big tree is growing.) |
-| 4 | Mi- | I- | Mi- | Hii (these), Ile (those) | Yangu | Yote | Mingine | Miti midogo hii inakua. (These small trees are growing.) |
-| 5 | Ji- | Li- | Ji- | Hili (this), Lile (that) | Langu | Lote | Jingine | Jicho zuri hili linatizama. (This pretty eye is watching.) |
-| 6 | Ma- | Ya- | Ma- | Haya (these), Yale (those) | Yangu | Yote | Mengine | Macho mazuri haya yanatizama. (These pretty eyes are watching.) |
-| 7 | Ki- | Ki- | Ki- | Hiki (this), Kile (that) | Changu | Chote | Kingine | Kikombe kidogo hiki kinakunywa. (This small cup is drinking.) |
-| 8 | Vi- | Vi- | Vi- | Hivi (these), Vile (those) | Vyangu | Vyote | Vingine | Vikombe vidogo hivi vinakunywa. (These small cups are drinking.) |
-| 9 | N- | I- | N- | Hii (this), Ile (that) | Yangu | Zote | Nyingine | Ndege nzuri hii inaruka. (This pretty bird is flying.) |
-| 10 | N- | Zi- | N- | Hizo (these), Zile (those) | Zangu | Zote | Nyingine | Ndege nzuri hizo zinaruka. (Those pretty birds are flying.) |
-| 11 | U- | U- | M- | Huu (this), Ule (that) | Wangu | Wote | Mwingine | Unga mzuri huu unakula. (This nice flour is eaten.) |
-| 14 | U- | U- | M- | Huu (this), Ule (that) | Wangu | Wote | Mwingine | Uzuri huu unatembea. (This beauty is walking.) |
-| 15 | Ku- | Ku- | - | - | - | - | - | Kuenda ni vizuri. (To go is nice.) |
-
-Apologies for the oversight. Here's the updated table with exemplary adjectives included:
 
 | Class # | Noun Prefix | Verb Prefix | Adjective | Demonstrative | Possessive | None | Few | Many | Another | Any | All | Example |
 |---------|-------------|-------------|-----------|---------------|------------|------|-----|------|---------|-----|-----|---------|
@@ -120,8 +103,6 @@ Apologies for the oversight. Here's the updated table with exemplary adjectives 
 | 9       | N-          | N-          | Ndogo     | Hilo          | Yangu      | Halina | Machache | Mengi | Mengine | Yoyote | Yote | Nyumba hilo ni ndogo. (That house is small.) |
 | 10      | Zi-         | Zi-         | Zaidi     | Hizo          | Zangu      | Hazina | Chache | Nyingi | Nyingine | Yoyote | Zote | Zawadi hizo ni zaidi. (Those gifts are more.) |
 | 11      | U-          | U-          | Mzuri     | Huu/Huo       | Wangu      | Haukuna | Pichache | Pengi | Jengine | Yoyote | Zote | Upepo huu ni mzuri. (This wind is good.)
-
- |
 | 12      | N/A         | Infinitives | Kubwa     | Hii           | Yangu      | Hakuna | Chache | Nyingi | Nyingine | Yoyote | Zote | Kazi hii ni kubwa. (This work is big.) |
 | 13      | N/A         | Infinitives | Nyingi    | Hiyo          | Yangu      | Haina | Chache | Nyingi | Nyingine | Yoyote | Zote | Shida hiyo ni nyingi. (That problem is many.) |
 | 14      | N/A         | Infinitives | Nyingi    | Hizo          | Zangu      | Hazina | Chache | Nyingi | Nyingine | Yoyote | Zote | Tofauti hizo ni nyingi. (Those differences are many.) |
