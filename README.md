@@ -24,6 +24,31 @@ The text summarizes the first 80 hours of Swahili class from https://museums.or.
 
 ## Grammar
 
+### Verb formation
+
+#### Affirmative
+
+| English | Swahili | Example (Li) | Example (Me) | Example (Na) | Example (Ta) |
+|---------|---------|--------------|--------------|--------------|--------------|
+| I | Mimi | Nilikula chakula. | Nilimeza chakula. | Ninakula chakula. | Nitakula chakula. |
+| You (singular) | Wewe | Ulikula chakula. | Ulimeza chakula. | Unakula chakula. | Utakula chakula. |
+| He/She | Yeye | Alikula chakula. | Alimeza chakula. | Anakula chakula. | Atakula chakula. |
+| We | Sisi | Tulikula chakula. | Tulimeza chakula. | Tunakula chakula. | Tutakula chakula. |
+| You (plural) | Ninyi | Mlikula chakula. | Mlimeza chakula. | Mnakula chakula. | Mtakula chakula. |
+| They | Wao | Walikula chakula. | Walimeza chakula. | Wanakula chakula. | Watakula chakula. |
+
+#### Negative
+
+| English | Swahili | Example (Li) | Example (Me) | Example (Na) | Example (Ta) |
+|---------|---------|--------------|--------------|--------------|--------------|
+| I | Mimi | Sikula chakula. | Sijameza chakula. | Sina kula chakula. | Sitakula chakula. |
+| You (singular) | Wewe | Hukula chakula. | Hujameza chakula. | Huna kula chakula. | Hutakula chakula. |
+| He/She | Yeye | Hakula chakula. | Hajameza chakula. | Hana kula chakula. | Hatakula chakula. |
+| We | Sisi | Hatukula chakula. | Hatujameza chakula. | Hatuna kula chakula. | Hatutakula chakula. |
+| You (plural) | Ninyi | Hamkula chakula. | Hamjameza chakula. | Hamna kula chakula. | Hamtakula chakula. |
+| They | Wao | Hawakula chakula. | Hawajameza chakula. | Hawana kula chakula. | Hawatakula chakula. |
+
+
 ### Questions
 
 | Swahili | English | Example |
@@ -76,3 +101,118 @@ The text summarizes the first 80 hours of Swahili class from https://museums.or.
 | 12 | N/A | Infinitives of verbs | kuenda (to go), kula (to eat), kunywa (to drink), kusoma (to read), kuimba (to sing), kukimbia (to run), kuogelea (to swim), kupika (to cook), kusaidia (to help), kufanya (to do), kucheza (to play), kuandika (to write), kujifunza (to learn), kusafiri (to travel), kuongea (to speak), kupanda (to climb), kufikiria (to think), kuota (to dream), kulala (to sleep), kuchora (to draw) |
 | 13 | U-/N- | Locative class, various locations | uwanja (field), nchi (land), ufukweni (at the beach), ndani (inside), nje (outside), ukutanini (on the wall), usawanini (on the floor), uwanjani (at the field), ufukweni (at the coast), upande (side), umoja (unity), ukutani (on the wall), upanuzi (expansion), uchafuzi (pollution), upakani (on the edge), upanuzi (expansion), umoja (unity), ukutani (on the wall), upanuzi (expansion), uchafuzi (pollution) |
 | 14 | U-/N- | Plural of class 13 | uwanja (fields), nchi (lands), ufukweni (at the beaches), ndani (insides), nje (outsides), ukutanini (on the walls), usawanini (on the floors), uwanjani (at the fields), ufukweni (at the coasts), upande (sides), umoja (unities), ukutani (on the walls), upanuzi (expansions), uchafuzi (pollutions), upakani (on the edges), upanuzi (expansions), umoja (unities), ukutani (on the walls), upanuzi (expansions), uchafuzi (pollutions) |
+
+
+### Dictionary
+
+Here are the top words in Swahili in order of frequency of usage.
+
+Here is a table listing the top 100 most frequently used words in Swahili, along with their English translations:
+
+| Rank | English      | Swahili           |
+|------|--------------|-------------------|
+| 1    | the          | ya                |
+| 2    | of           | wa                |
+| 3    | and          | na                |
+| 4    | to           | kwa               |
+| 5    | in           | katika            |
+| 6    | a            | moja              |
+| 7    | is           | ni                |
+| 8    | that         | kwamba            |
+| 9    | it           | ni                |
+| 10   | I            | mimi              |
+| 11   | for          | kwa               |
+| 12   | you          | wewe              |
+| 13   | he           | yeye              |
+| 14   | with         | na                |
+| 15   | on           | juu ya            |
+| 16   | do           | kufanya           |
+| 17   | say          | sema              |
+| 18   | this         | hii               |
+| 19   | they         | wao               |
+| 20   | at           | katika            |
+| 21   | but          | lakini            |
+| 22   | we           | sisi              |
+| 23   | his          | yake              |
+| 24   | from         | kutoka            |
+| 25   | not          | si                |
+| 26   | by           | kwa               |
+| 27   | she          | yeye              |
+| 28   | or           | au                |
+| 29   | as           | kama              |
+| 30   | what         | nini              |
+| 31   | go           | kwenda            |
+| 32   | their        | wao               |
+| 33   | can          | kusaidia          |
+| 34   | who          | nani              |
+| 35   | get          | kupata            |
+| 36   | if           | kama              |
+| 37   | would        | ingekuwa          |
+| 38   | her          | yake              |
+| 39   | all          | wote              |
+| 40   | my           | yangu             |
+| 41   | make         | kufanya           |
+| 42   | about        | kuhusu            |
+| 43   | know         | kujua             |
+| 44   | will         | itakuwa           |
+| 45   | up           | juu               |
+| 46   | one          | moja              |
+| 47   | time         | wakati            |
+| 48   | there        | kuna              |
+| 49   | year         | mwaka             |
+| 50   | so           | hivyo             |
+| 51   | think        | fikiri            |
+| 52   | when         | wakati            |
+| 53   | which        | ambayo            |
+| 54   | them         | wao               |
+| 55   | some         | baadhi            |
+| 56   | me           | mimi              |
+| 57   | people       | watu              |
+| 58   | take         | kuchukua          |
+| 59   | out          | nje               |
+| 60   | into        
+
+ | katika            |
+| 61   | just         | tu                |
+| 62   | see          | kuona             |
+| 63   | him          | yeye              |
+| 64   | your         | yako              |
+| 65   | come         | kuja              |
+| 66   | could        | inaweza           |
+| 67   | now          | sasa              |
+| 68   | than         | kuliko            |
+| 69   | like         | kama              |
+| 70   | other        | nyingine          |
+| 71   | how          | jinsi             |
+| 72   | then         | basi              |
+| 73   | its          | yake              |
+| 74   | our          | yetu              |
+| 75   | two          | mbili             |
+| 76   | more         | zaidi             |
+| 77   | these        | hizi              |
+| 78   | want         | kutaka            |
+| 79   | way          | njia              |
+| 80   | look         | angalia           |
+| 81   | first        | kwanza            |
+| 82   | also         | pia               |
+| 83   | new          | mpya              |
+| 84   | because      | kwa sababu        |
+| 85   | day          | siku              |
+| 86   | more         | zaidi             |
+| 87   | use          | kutumia           |
+| 88   | no           | hakuna            |
+| 89   | man          | mtu               |
+| 90   | find         | kupata            |
+| 91   | here         | hapa              |
+| 92   | thing        | kitu              |
+| 93   | give         | toa               |
+| 94   | many         | wengi             |
+| 95   | well         | vizuri            |
+| 96   | only         | tu                |
+| 97   | those        | wale              |
+| 98   | tell         | mwambie           |
+| 99   | very         | sana              |
+| 100  | even         | hata              |
+
+
+
