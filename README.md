@@ -170,9 +170,7 @@ Here is a table listing the top 100 most frequently used words in Swahili, along
 | 57   | people       | watu              |
 | 58   | take         | kuchukua          |
 | 59   | out          | nje               |
-| 60   | into        
-
- | katika            |
+| 60   | into         | katika            |
 | 61   | just         | tu                |
 | 62   | see          | kuona             |
 | 63   | him          | yeye              |
