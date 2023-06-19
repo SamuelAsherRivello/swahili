@@ -15,7 +15,7 @@ The text summarizes the first 80 hours of Swahili class from https://museums.or.
 
 | Sentence # | Speaker | Swahili | English |
 |------------|---------|---------|---------|
-| 1 | Mary | Habari, Asher. Jina lako ni nani? | Hello, Asher. What is your name? |
+| 1 | Mary | Mambo. Jina lako ni nani? | Hi. What is your name? |
 | 2 | Asher | Habari, Mary. Jina langu ni Asher. | Hello, Mary. My name is Asher. |
 | 3 | Mary | Unatoka wapi, Asher? | Where are you from, Asher? |
 | 4 | Asher | Ninatoka Philadelphia, Marekani. | I'm from Philadelphia, USA. |
