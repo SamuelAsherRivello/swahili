@@ -9,22 +9,9 @@ The text summarizes the first 80 hours of Swahili class from https://museums.or.
 * Dictionary: [https://glosbe.com/en/sw](https://glosbe.com/en/sw)
 
 
-## Conversation
+## Conversations
 
-### Introduction
-
-| Sentence # | Speaker | Swahili | English |
-|------------|---------|---------|---------|
-| 1 | Mary | Mambo. Jina lako ni nani? | Hi. What is your name? |
-| 2 | Asher | Habari, Mary. Jina langu ni Asher. | Hello, Mary. My name is Asher. |
-| 3 | Mary | Unatoka wapi, Asher? | Where are you from, Asher? |
-| 4 | Asher | Ninatoka Philadelphia, Marekani. | I'm from Philadelphia, USA. |
-| 5 | Mary | Unafanya nini hapa Kenya? | What are you doing here in Kenya? |
-| 6 | Asher | Mimi ni mgeni hapa Kenya. Nitakuwa hapa kwa siku tisini. | I am a visitor in Kenya. I will be here for 90 days. |
-| 7 | Mary | Unafanya kazi gani? | What work do you do? |
-| 8 | Asher | Mimi ni mpangaji wa kompyuta na mwalimu wa mpango wa kompyuta kwa michezo ya video. Nafanya kazi yangu mtandaoni. | I am a computer programmer and a teacher of computer programming for video games. I do my work online. |
-| 9 | Mary | Hiyo ni ajabu! Karibu Kenya, Asher! | That's amazing! Welcome to Kenya, Asher! |
-| 10 | Asher | Asante, Mary. Nafurahi kuwa hapa. | Thank you, Mary. I'm happy to be here. |
+* [./conversations.md](./conversations.md)
 
 
 ## Grammar
