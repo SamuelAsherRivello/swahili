@@ -52,7 +52,7 @@ Here is the table representing the conversation between Mary and Asher:
 |   3 | Asher   | Sina mteja kwa sasa.                                                    | I don't have a client now.                               |
 |   4 | Asher   | Hivyo, naunda kozi za kuuza mtandaoni peke yangu.                        | So, I am creating courses to sell online by myself.       |
 |   5 | Asher   | Naendelea kufanya mahojiano kwa ajili ya mteja wangu ujao.               | And I am interviewing for my next client.                 |
-|   6 | Asher   | Nilifanya mahojiano 2 wiki hii.                                         | I had 2 interviews this week.                            |
+|   6 | Asher   | Nilifanya mahojiano mawili wiki hii.                                         | I had two interviews this week.                            |
 |   7 | Asher   | Niliumba pendekezo la mawazo na kutuma kwa mteja.                        | I created a proposal of ideas and sent it to a client.    |
 |   8 | Asher   | Sasa nangojea mteja kujibu.                                              | Now I wait for the client to respond.                     |
 
