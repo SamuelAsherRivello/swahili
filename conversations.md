@@ -40,3 +40,22 @@
 |   5 | Asher   | Jumapili nilikwenda kufanya kikao cha kupata msaada wa kupumzika kwenye spa. | Sunday, I went to have a massage at a spa.               |
 |   6 | Asher   | Napenda kupata angalau kikao kimoja cha kupumzika kila mwezi.             | I like to have at least one massage session per month.  |
 
+
+### What did you do for work recently?
+
+Here is the table representing the conversation between Mary and Asher:
+
+|  #  | Speaker | Swahili                                                                 | English                                                  |
+|----:|---------|------------------------------------------------------------------------|----------------------------------------------------------|
+|   1 | Mary    | Kazi yako inaendaje?                                                    | How is your work going?                                  |
+|   2 | Asher   | Kazi yangu ni kuwa mtengenezaji wa michezo na mwalimu.                  | I work as a game developer and teacher.                  |
+|   3 | Asher   | Sina mteja kwa sasa.                                                    | I don't have a client now.                               |
+|   4 | Asher   | Hivyo, naunda kozi za kuuza mtandaoni peke yangu.                        | So, I am creating courses to sell online by myself.       |
+|   5 | Asher   | Naendelea kufanya mahojiano kwa ajili ya mteja wangu ujao.               | And I am interviewing for my next client.                 |
+|   6 | Asher   | Nilifanya mahojiano 2 wiki hii.                                         | I had 2 interviews this week.                            |
+|   7 | Asher   | Niliumba pendekezo la mawazo na kutuma kwa mteja.                        | I created a proposal of ideas and sent it to a client.    |
+|   8 | Asher   | Sasa nangojea mteja kujibu.                                              | Now I wait for the client to respond.                     |
+
+Note: The conversation has been constructed based on the given sentences and may not represent an entire conversation flow.
+
+
