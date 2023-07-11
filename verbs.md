@@ -3,7 +3,7 @@
 
 ### Top 100 Most Frequent
 
-|  #  | Swahili          | English          | Comment |
+|  #  | Swahili          | English          | Comment (Is Memorized) |
 |----:|------------------|------------------|---------|
 |   1 | Kuwa             | To be            | ✅      |
 |   2 | Kufanya          | To do/make       | ✅      |
