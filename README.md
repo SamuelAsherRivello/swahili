@@ -8,15 +8,21 @@ The text summarizes the first 80 hours of Swahili class from https://museums.or.
 * Dictionary: [https://www.goswahili.org/dictionary/](https://www.goswahili.org/dictionary/)
 * Dictionary: [https://glosbe.com/en/sw](https://glosbe.com/en/sw)
 
-
 ## Conversations
 
 * [Conversations Page](./conversations.md)
 
-
 ## Grammar
 
 * [Grammar Page](./grammar.md)
+
+## Verbs
+
+* [Verbs.md](./verbs.md)
+
+## Noun Classes
+
+* [Nouns.md](./nouns.md)
 
 ### Questions
 
@@ -31,192 +37,6 @@ The text summarizes the first 80 hours of Swahili class from https://museums.or.
 | Vipi | How | Unajisikiaje vipi? (How do you feel?) |
 | Ngapi | How many | Una miaka mingapi? (How many years do you have?/How old are you?) |
 | Ipi | Which | Gari ipi ni lako? (Which car is yours?) |
-
-## Verbs
-
-### Top 100 Most Frequent
-
-| Swahili          | English          |
-|------------------|------------------|
-| Kuwa             | To be            |
-| Kufanya          | To do/make       |
-| Kupata           | To get/receive   |
-| Kusema           | To say/speak     |
-| Kwenda           | To go            |
-| Kufika           | To arrive/reach  |
-| Kupenda          | To love          |
-| Kujua            | To know          |
-| Kufikiri         | To think         |
-| Kusoma           | To read          |
-| Kuona            | To see           |
-| Kula             | To eat           |
-| Kufungua         | To open          |
-| Kufunga          | To close         |
-| Kuja             | To come          |
-| Kusikia          | To hear          |
-| Kusaidia         | To help          |
-| Kuchukua         | To take          |
-| Kufanya kazi     | To work          |
-| Kuangalia        | To look/watch    |
-| Kusubiri         | To wait          |
-| Kukaa            | To sit/stay      |
-| Kuendelea        | To continue      |
-| Kucheza          | To play          |
-| Kufundisha       | To teach         |
-| Kusafiri         | To travel        |
-| Kuuliza          | To ask           |
-| Kuonyesha        | To show          |
-| Kupiga           | To hit/beat      |
-| Kusimama         | To stand         |
-| Kufanya kazi     | To work          |
-| Kusimulia        | To tell/narrate  |
-| Kuruka           | To jump          |
-| Kusahau          | To forget        |
-| Kukumbuka        | To remember      |
-| Kusafisha        | To clean         |
-| Kukimbia         | To run           |
-| Kujaribu         | To try           |
-| Kuvunja          | To break         |
-| Kugusa           | To touch         |
-| Kukumbatia       | To embrace       |
-| Kupumzika        | To rest          |
-| Kuoga            | To bathe         |
-| Kuimba           | To sing          |
-| Kurudi           | To return        |
-| Kuwasha          | To light/ignite  |
-| Kucheza           | To dance         |
-| Kukumbatia       | To hug           |
-| Kuvaa            | To wear          |
-| Kuamka           | To wake up       |
-| Kukusanya        | To gather        |
-| Kusindikiza      | To accompany     |
-| Kufikiria        | To imagine       |
-| Kufanya mazoezi  | To exercise      |
-| Kukubali         | To accept        |
-| Kukosoa          | To criticize     |
-| Kufunga mkataba  | To make an agreement |
-| Kujibu           | To respond       |
-| Kuruhusu         | To allow         |
-| Kusahihisha      | To correct       |
-| Kufanya kazi pamoja | To collaborate |
-| Kukubaliana      | To agree         |
-| Kukataa          | To refuse        |
-| Kusamehe         | To forgive       |
-| Kuvumilia        | To tolerate      |
-| Kuacha           | To leave         |
-| Kufika kwa wakati | To be punctual  |
-| Kukimbia         | To escape        |
-| Kuchangia        | To contribute    |
-| Kusimamia        | To manage/supervise |
-| Kufundisha       | To train         |
-| Kuhitaji         | To need          |
-| Kuandika         | To write         |
-| Kuridhika        | To be satisfied  |
-| Kuunda           | To create        |
-| Kujenga          | To build         |
-| Kukaribisha      | To welcome       |
-| Kukosea          | To make a mistake |
-| Kufikirika       | To be imaginable |
-| Kuhudumia        | To serve         |
-| Kukagua          | To inspect       |
-| Kuhakikisha      | To ensure        |
-| Kupendekeza      | To suggest       |
-| Kuwasilisha      | To present       |
-| Kupoteza         | To lose          |
-| Kusafiri         | To travel        |
-| Kuamini          | To believe       |
-| Kufikiria tena   | To reconsider    |
-| Kuchagua         | To choose        |
-| Kusikiliza       | To listen        |
-| Kuzungumza       | To speak         |
-| Kupenda          | To like          |
-| Kuchukua         | To take          |
-| Kukaribia        | To approach      |
-| Kujifunza        | To learn         |
-| Kupanga          | To plan          |
-| Kutoa            | To give          |
-| Kukaa            | To live          |
-| Kusahau          | To forget        |
-| Kuzunguka        | To move around   |
-| Kukubali         | To agree         |
-| Kuhisi           | To feel          |
-| Kugawanya        | To divide        |
-| Kugundua         | To discover      |
-| Kufikiria        | To think         |
-| Kusafisha        | To clean         |
-| Kuokota          | To pick up       |
-| Kuendelea        | To continue      |
-| Kuweka           | To put           |
-| Kufika           | To arrive        |
-| Kujaribu         | To try           |
-| Kukutana         | To meet          |
-| Kuhudhuria       | To attend        |
-| Kuomba           | To request       |
-| Kuzungumza       | To talk          |
-| Kufanya kazi     | To work          |
-| Kuishi           | To live          |
-| Kurudi           | To return        |
-| Kupanga           | To arrange       |
-| Kujaribu         | To attempt       |
-| Kufika           | To reach         |
-| Kuchagua         | To select        |
-| Kutoa            | To remove        |
-| Kuwapa           | To give          |
-| Kupokea          | To receive       |
-| Kuzaliwa         | To be born       |
-| Kusaidia         | To assist        |
-| Kusimamia        | To supervise     |
-| Kuelewa          | To understand    |
-| Kuleta           | To bring         |
-| Kuuliza          | To ask           |
-| Kusubiri         | To wait          |
-| Kuchukua         | To take          |
-
-
-## Noun Classes
-
-### Overview
-
-
-| # | Noun | Verb | Adj. | Dem. | Poss. | None | Few | Many | Another | Any | All | Example |
-|---------|-------------|-------------|-----------|---------------|------------|------|-----|------|---------|-----|-----|---------|
-| 1       | M-          | N/A         | Mrefu     | Huu/Hii       | Wangu      | Hakuna | Vichache | Vingi | Kingine | Yoyote | Vyote | Nyumba hii ni mrefu. (This house is tall.) |
-| 2       | Wa-         | Wa-         | Wengi     | Hawa          | Wao        | Hawana | Wachache | Wengi | Wengine | Yoyote | Wote | Watoto hawa ni wengi. (These children are many.) |
-| 3       | M-          | N-          | Mzuri     | Huyo          | Yangu      | Hana | Wachache | Wengi | Mwingine | Yoyote | Wote | Mbwa huyo ni mzuri. (That dog is beautiful.) |
-| 4       | Mi-         | I-          | Midogo    | Hiyo          | Yangu      | Haina | Michache | Mingi | Nyingine | Yoyote | Vyote | Vitabu hivi ni vidogo. (These books are small.) |
-| 5       | Ji-         | Ji-         | Jepesi    | Hili          | Langu      | Halina | Chache | Vingi | Jengine | Yoyote | Vyote | Jina hili ni jepesi. (This name is easy.) |
-| 6       | Ma-         | Ma-         | Makubwa   | Hayo          | Yangu      | Hayana | Machache | Mengi | Mengine | Yoyote | Yote | Maji haya ni makubwa. (These water is big.) |
-| 7       | Ki-         | Ki-         | Kidogo    | Hiki          | Changu     | Hakina | Vichache | Vingi | Kingine | Yoyote | Vyote | Kitabu hiki ni kidogo. (This book is small.) |
-| 8       | Vi-         | Vi-         | Vingi     | Hivi          | Vyangu     | Havina | Vichache | Vingi | Vingine | Yoyote | Vyote | Viti hivi ni vingi. (These chairs are many.) |
-| 9       | N-          | N-          | Ndogo     | Hilo          | Yangu      | Halina | Machache | Mengi | Mengine | Yoyote | Yote | Nyumba hilo ni ndogo. (That house is small.) |
-| 10      | Zi-         | Zi-         | Zaidi     | Hizo          | Zangu      | Hazina | Chache | Nyingi | Nyingine | Yoyote | Zote | Zawadi hizo ni zaidi. (Those gifts are more.) |
-| 11      | U-          | U-          | Mzuri     | Huu/Huo       | Wangu      | Haukuna | Pichache | Pengi | Jengine | Yoyote | Zote | Upepo huu ni mzuri. (This wind is good.)
-| 12      | N/A         | inf. | Kubwa     | Hii           | Yangu      | Hakuna | Chache | Nyingi | Nyingine | Yoyote | Zote | Kazi hii ni kubwa. (This work is big.) |
-| 13      | N/A         | inf. | Nyingi    | Hiyo          | Yangu      | Haina | Chache | Nyingi | Nyingine | Yoyote | Zote | Shida hiyo ni nyingi. (That problem is many.) |
-| 14      | N/A         | inf. | Nyingi    | Hizo          | Zangu      | Hazina | Chache | Nyingi | Nyingine | Yoyote | Zote | Tofauti hizo ni nyingi. (Those differences are many.) |
-
-Please note that the adjectives provided are just examples, and there are many more adjectives that can be used within each noun class.
-
-### Vocabulary
-
-| # | Noun Prefix | Category | Examples |
-|---|---|---|---|
-| 1 | M-/Mu- | People, professions, animate entities | mwalimu (teacher), mwanafunzi (student), mtoto (child), mgeni (guest), muuguzi (nurse), mvulana (boy), mwanamke (woman), mzee (elder), msichana (girl), mfalme (king), mume (husband), mtumishi (servant), mke (wife), mkulima (farmer), mzazi (parent), mpendwa (beloved), mfanyakazi (worker), mpenzi (lover), mtu (person), mwanaume (man) |
-| 2 | Wa- | Plural of class 1 | walimu (teachers), wanafunzi (students), watoto (children), wageni (guests), wauguzi (nurses), wavulana (boys), wanawake (women), wazee (elders), wasichana (girls), wafalme (kings), wanaume (men), watu (people) |
-| 3 | M-/Mu- | Trees, plants, natural phenomena, inanimate objects | mti (tree), mto (river), mlima (mountain), mboga (vegetable), mchungwa (orange tree), mfereji (canal), mmea (plant), msumari (nail), msitu (forest), mwamba (rock), mwisho (end), mwavuli (umbrella), mzunguko (circle), mbaazi (pea), mwezi (moon), mwanga (light), mwendo (motion), mtiifu (obedient), mtofaa (apple tree), mzabibu (grapevine) |
-| 4 | Mi- | Plural of class 3 | miti (trees), mito (rivers), milima (mountains), miboga (vegetables), michungwa (orange trees), mifereji (canals), mimea (plants), misumari (nails), misitu (forests), miavuli (umbrellas), mzunguko (circles), mbaazi (peas), miezi (months), miwendo (motions), mitiifu (obedient ones) |
-| 5 | Ji-/N- | Most inanimate objects, abstract nouns, and others that don't fit elsewhere | jicho (eye), jino (tooth), jina (name), jani (leaf), neno (word), nchi (country), ndege (bird), nyota (star), ndizi (banana), nyumbani (home), ngoma (drum), njiwa (dove), njia (way), ndoto (dream), ngozi (skin), ndama (calf), nge (scorpion), nguruwe (pig), njiwa (pigeon), ng'ombe (cow) |
-| 6 | Ma- | Plural of class 5 | macho (eyes), meno (teeth), majina (names), majani (leaves), maneno (words), nchi (countries), ndege (birds), nyota (stars), ndizi (bananas), nyumbani (homes), ngoma (drums), njiwa (doves), njia (ways), ndoto (dreams), ngozi (skins), ndama (calves), nge (scorpions), 
-| 7 | Ki-/Ch- | Tools, diminutives, languages, and things characterized by their smallness | kisu (knife), kitabu (book), kikombe (cup), chombo (vessel), kioo (mirror), kikapu (basket), kijiko (spoon), chungwa (orange), chakula (food), kilio (cry), kisima (well), chupa (bottle), kiwanda (factory), kikundi (group), kijiji (village), chakula (food), kiswahili (Swahili language), kiingereza (English language), kifaransa (French language), kiarabu (Arabic language) |
-| 8 | Vi-/Vy- | Plural of class 7 | visu (knives), vitabu (books), vikombe (cups), vyombo (vessels), vioo (mirrors), vikapu (baskets), vijiko (spoons), vyungwa (oranges), vyakula (foods), vilio (cries), visima (wells), chupa (bottles), viwanda (factories), vikundi (groups), vijiji (villages), vyakula (foods), kiswahili (Swahili languages), viingereza (English languages), vifaransa (French languages), viarabu (Arabic languages) |
-| 9 | N-/Ø- | Animals, and many other entities | njiwa (pigeon), ndovu (elephant), nyoka (snake), ndege (bird), nyati (buffalo), ng'ombe (cow), nguruwe (pig), nzi (fly), nyuki (bee), nyumba (house), ndege (airplane), nafasi (space), ndoto (dream), nywele (hair), ndizi (banana), nchi (country), ngozi (skin), ngao (shield), nanga (anchor), nyundo (hammer) |
-| 10 | N-/Ø- | Plural of class 9 | njiwa (pigeons), ndovu (elephants), nyoka (snakes), ndege (birds), nyati (buffaloes), ng'ombe (cows), nguruwe (pigs), nzi (flies), nyuki (bees), nyumba (houses), ndege (airplanes), nafasi (spaces), ndoto (dreams), nywele (hairs), ndizi (bananas), nchi (countries), ngozi (skins), ngao (shields), nanga (anchors), nyundo (hammers) |
-| 11 | U- | Abstract nouns, often derived from verbs | upendo (love), uchungu (pain), ufahari (pride), ukweli (truth), uongo (lie), ukali (fierceness), ubaya (badness), ujuzi (skill), ufalme (kingdom), ucheshi (laughter), utajiri (wealth), utu (humanity), umasikini (poverty), ujana (youth), uzee (old age), urafiki (friendship), ujasiri (bravery), ushujaa (heroism), utulivu (calmness), ulevi (drunkenness
-| 12 | N/A | Infinitives of verbs | kuenda (to go), kula (to eat), kunywa (to drink), kusoma (to read), kuimba (to sing), kukimbia (to run), kuogelea (to swim), kupika (to cook), kusaidia (to help), kufanya (to do), kucheza (to play), kuandika (to write), kujifunza (to learn), kusafiri (to travel), kuongea (to speak), kupanda (to climb), kufikiria (to think), kuota (to dream), kulala (to sleep), kuchora (to draw) |
-| 13 | U-/N- | Locative class, various locations | uwanja (field), nchi (land), ufukweni (at the beach), ndani (inside), nje (outside), ukutanini (on the wall), usawanini (on the floor), uwanjani (at the field), ufukweni (at the coast), upande (side), umoja (unity), ukutani (on the wall), upanuzi (expansion), uchafuzi (pollution), upakani (on the edge), upanuzi (expansion), umoja (unity), ukutani (on the wall), upanuzi (expansion), uchafuzi (pollution) |
-| 14 | U-/N- | Plural of class 13 | uwanja (fields), nchi (lands), ufukweni (at the beaches), ndani (insides), nje (outsides), ukutanini (on the walls), usawanini (on the floors), uwanjani (at the fields), ufukweni (at the coasts), upande (sides), umoja (unities), ukutani (on the walls), upanuzi (expansions), uchafuzi (pollutions), upakani (on the edges), upanuzi (expansions), umoja (unities), ukutani (on the walls), upanuzi (expansions), uchafuzi (pollutions) |
-
-
 
 ### Frequency Dictionary
 
