@@ -3,36 +3,34 @@
 
 ### Top 100 Most Frequent
 
-Sure! Here is the table listing the 100 most frequently used verbs in Swahili along with their English translations:
-
 |  #  | Swahili          | English          | Comment |
 |----:|------------------|------------------|---------|
-|   1 | Kuwa             | To be            | [x]     |
-|   2 | Kufanya          | To do/make       |         |
+|   1 | Kuwa             | To be            | ✅      |
+|   2 | Kufanya          | To do/make       | ✅      |
 |   3 | Kupata           | To get/receive   |         |
-|   4 | Kusema           | To say/speak     |         |
-|   5 | Kwenda           | To go            |         |
-|   6 | Kufika           | To arrive/reach  |         |
-|   7 | Kupenda          | To love          |         |
-|   8 | Kujua            | To know          |         |
-|   9 | Kufikiri         | To think         |         |
-|  10 | Kusoma           | To read          |         |
-|  11 | Kuona            | To see           |         |
-|  12 | Kula             | To eat           |         |
+|   4 | Kusema           | To say/speak     | ✅      |
+|   5 | Kwenda           | To go            | ✅      |
+|   6 | Kufika           | To arrive/reach  | ✅      |
+|   7 | Kupenda          | To love          | ✅      |
+|   8 | Kujua            | To know          | ✅      |
+|   9 | Kufikiri         | To think         | ✅      |
+|  10 | Kusoma           | To read          | ✅      |
+|  11 | Kuona            | To see           | ✅      |
+|  12 | Kula             | To eat           | ✅      |
 |  13 | Kufungua         | To open          |         |
 |  14 | Kufunga          | To close         |         |
-|  15 | Kuja             | To come          |         |
+|  15 | Kuja             | To come          | ✅      |
 |  16 | Kusikia          | To hear          |         |
-|  17 | Kusaidia         | To help          |         |
+|  17 | Kusaidia         | To help          | ✅      |
 |  18 | Kuchukua         | To take          |         |
-|  19 | Kufanya kazi     | To work          |         |
+|  19 | Kufanya kazi     | To work          | ✅      |
 |  20 | Kuangalia        | To look/watch    |         |
 |  21 | Kusubiri         | To wait          |         |
 |  22 | Kukaa            | To sit/stay      |         |
 |  23 | Kuendelea        | To continue      |         |
-|  24 | Kucheza          | To play          |         |
+|  24 | Kucheza          | To play          | ✅      |
 |  25 | Kufundisha       | To teach         |         |
-|  26 | Kusafiri         | To travel        |         |
+|  26 | Kusafiri         | To travel        | ✅      |
 |  27 | Kuuliza          | To ask           |         |
 |  28 | Kuonyesha        | To show          |         |
 |  29 | Kupiga           | To hit/beat      |         |
@@ -77,11 +75,11 @@ Sure! Here is the table listing the 100 most frequently used verbs in Swahili al
 |  68 | Kuchangia        | To contribute    |         |
 |  69 | Kusimamia        | To manage/supervise |     |
 |  70 | Kufundisha       | To train         |         |
-|  71 | Kuhitaji         | To need          |         |
-|  72 | Kuandika         | To write         |         |
+|  71 | Kuhitaji         | To need          | ✅      |
+|  72 | Kuandika         | To write         | ✅      |
 |  73 | Kuridhika        | To be satisfied  |         |
 |  74 | Kuunda           | To create        |         |
-|  75 | Kujenga          | To build         |         |
+|  75 | Kujenga          | To build         | ✅      |
 |  76 | Kukaribisha      | To welcome       |         |
 |  77 | Kukosea          | To make a mistake |        |
 |  78 | Kufikirika       | To be imaginable |         |
@@ -93,13 +91,11 @@ Sure! Here is the table listing the 100 most frequently used verbs in Swahili al
 |  84 | Kupoteza         | To lose          |         |
 |  85 | Kusafiri         | To travel        |         |
 |  86 | Kuamini          | To believe       |         |
-|  87 | Kufikiria tena   | To reconsider
-
-    |         |
+|  87 | Kufikiria tena   | To reconsider    |         |
 |  88 | Kuchagua         | To choose        |         |
 |  89 | Kusikiliza       | To listen        |         |
 |  90 | Kuzungumza       | To speak         |         |
-|  91 | Kupenda          | To like          |         |
+|  91 | Kupenda          | To like          | ✅      |
 |  92 | Kuchukua         | To take          |         |
 |  93 | Kukaribia        | To approach      |         |
 |  94 | Kujifunza        | To learn         |         |
@@ -110,4 +106,4 @@ Sure! Here is the table listing the 100 most frequently used verbs in Swahili al
 |  99 | Kutoa            | To remove        |         |
 | 100 | Kuwapa           | To give          |         |
 
-Please note that this is a general list of frequently used verbs and may not include all possible variations and forms of each verb.
+
