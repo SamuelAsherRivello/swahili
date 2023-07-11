@@ -3,138 +3,111 @@
 
 ### Top 100 Most Frequent
 
-| Swahili          | English          |
-|------------------|------------------|
-| Kuwa             | To be            |
-| Kufanya          | To do/make       |
-| Kupata           | To get/receive   |
-| Kusema           | To say/speak     |
-| Kwenda           | To go            |
-| Kufika           | To arrive/reach  |
-| Kupenda          | To love          |
-| Kujua            | To know          |
-| Kufikiri         | To think         |
-| Kusoma           | To read          |
-| Kuona            | To see           |
-| Kula             | To eat           |
-| Kufungua         | To open          |
-| Kufunga          | To close         |
-| Kuja             | To come          |
-| Kusikia          | To hear          |
-| Kusaidia         | To help          |
-| Kuchukua         | To take          |
-| Kufanya kazi     | To work          |
-| Kuangalia        | To look/watch    |
-| Kusubiri         | To wait          |
-| Kukaa            | To sit/stay      |
-| Kuendelea        | To continue      |
-| Kucheza          | To play          |
-| Kufundisha       | To teach         |
-| Kusafiri         | To travel        |
-| Kuuliza          | To ask           |
-| Kuonyesha        | To show          |
-| Kupiga           | To hit/beat      |
-| Kusimama         | To stand         |
-| Kufanya kazi     | To work          |
-| Kusimulia        | To tell/narrate  |
-| Kuruka           | To jump          |
-| Kusahau          | To forget        |
-| Kukumbuka        | To remember      |
-| Kusafisha        | To clean         |
-| Kukimbia         | To run           |
-| Kujaribu         | To try           |
-| Kuvunja          | To break         |
-| Kugusa           | To touch         |
-| Kukumbatia       | To embrace       |
-| Kupumzika        | To rest          |
-| Kuoga            | To bathe         |
-| Kuimba           | To sing          |
-| Kurudi           | To return        |
-| Kuwasha          | To light/ignite  |
-| Kucheza           | To dance         |
-| Kukumbatia       | To hug           |
-| Kuvaa            | To wear          |
-| Kuamka           | To wake up       |
-| Kukusanya        | To gather        |
-| Kusindikiza      | To accompany     |
-| Kufikiria        | To imagine       |
-| Kufanya mazoezi  | To exercise      |
-| Kukubali         | To accept        |
-| Kukosoa          | To criticize     |
-| Kufunga mkataba  | To make an agreement |
-| Kujibu           | To respond       |
-| Kuruhusu         | To allow         |
-| Kusahihisha      | To correct       |
-| Kufanya kazi pamoja | To collaborate |
-| Kukubaliana      | To agree         |
-| Kukataa          | To refuse        |
-| Kusamehe         | To forgive       |
-| Kuvumilia        | To tolerate      |
-| Kuacha           | To leave         |
-| Kufika kwa wakati | To be punctual  |
-| Kukimbia         | To escape        |
-| Kuchangia        | To contribute    |
-| Kusimamia        | To manage/supervise |
-| Kufundisha       | To train         |
-| Kuhitaji         | To need          |
-| Kuandika         | To write         |
-| Kuridhika        | To be satisfied  |
-| Kuunda           | To create        |
-| Kujenga          | To build         |
-| Kukaribisha      | To welcome       |
-| Kukosea          | To make a mistake |
-| Kufikirika       | To be imaginable |
-| Kuhudumia        | To serve         |
-| Kukagua          | To inspect       |
-| Kuhakikisha      | To ensure        |
-| Kupendekeza      | To suggest       |
-| Kuwasilisha      | To present       |
-| Kupoteza         | To lose          |
-| Kusafiri         | To travel        |
-| Kuamini          | To believe       |
-| Kufikiria tena   | To reconsider    |
-| Kuchagua         | To choose        |
-| Kusikiliza       | To listen        |
-| Kuzungumza       | To speak         |
-| Kupenda          | To like          |
-| Kuchukua         | To take          |
-| Kukaribia        | To approach      |
-| Kujifunza        | To learn         |
-| Kupanga          | To plan          |
-| Kutoa            | To give          |
-| Kukaa            | To live          |
-| Kusahau          | To forget        |
-| Kuzunguka        | To move around   |
-| Kukubali         | To agree         |
-| Kuhisi           | To feel          |
-| Kugawanya        | To divide        |
-| Kugundua         | To discover      |
-| Kufikiria        | To think         |
-| Kusafisha        | To clean         |
-| Kuokota          | To pick up       |
-| Kuendelea        | To continue      |
-| Kuweka           | To put           |
-| Kufika           | To arrive        |
-| Kujaribu         | To try           |
-| Kukutana         | To meet          |
-| Kuhudhuria       | To attend        |
-| Kuomba           | To request       |
-| Kuzungumza       | To talk          |
-| Kufanya kazi     | To work          |
-| Kuishi           | To live          |
-| Kurudi           | To return        |
-| Kupanga           | To arrange       |
-| Kujaribu         | To attempt       |
-| Kufika           | To reach         |
-| Kuchagua         | To select        |
-| Kutoa            | To remove        |
-| Kuwapa           | To give          |
-| Kupokea          | To receive       |
-| Kuzaliwa         | To be born       |
-| Kusaidia         | To assist        |
-| Kusimamia        | To supervise     |
-| Kuelewa          | To understand    |
-| Kuleta           | To bring         |
-| Kuuliza          | To ask           |
-| Kusubiri         | To wait          |
-| Kuchukua         | To take          |
+Sure! Here is the table listing the 100 most frequently used verbs in Swahili along with their English translations:
+
+|  #  | Swahili          | English          | Comment |
+|----:|------------------|------------------|---------|
+|   1 | Kuwa             | To be            | [x]     |
+|   2 | Kufanya          | To do/make       |         |
+|   3 | Kupata           | To get/receive   |         |
+|   4 | Kusema           | To say/speak     |         |
+|   5 | Kwenda           | To go            |         |
+|   6 | Kufika           | To arrive/reach  |         |
+|   7 | Kupenda          | To love          |         |
+|   8 | Kujua            | To know          |         |
+|   9 | Kufikiri         | To think         |         |
+|  10 | Kusoma           | To read          |         |
+|  11 | Kuona            | To see           |         |
+|  12 | Kula             | To eat           |         |
+|  13 | Kufungua         | To open          |         |
+|  14 | Kufunga          | To close         |         |
+|  15 | Kuja             | To come          |         |
+|  16 | Kusikia          | To hear          |         |
+|  17 | Kusaidia         | To help          |         |
+|  18 | Kuchukua         | To take          |         |
+|  19 | Kufanya kazi     | To work          |         |
+|  20 | Kuangalia        | To look/watch    |         |
+|  21 | Kusubiri         | To wait          |         |
+|  22 | Kukaa            | To sit/stay      |         |
+|  23 | Kuendelea        | To continue      |         |
+|  24 | Kucheza          | To play          |         |
+|  25 | Kufundisha       | To teach         |         |
+|  26 | Kusafiri         | To travel        |         |
+|  27 | Kuuliza          | To ask           |         |
+|  28 | Kuonyesha        | To show          |         |
+|  29 | Kupiga           | To hit/beat      |         |
+|  30 | Kusimama         | To stand         |         |
+|  31 | Kusimulia        | To tell/narrate  |         |
+|  32 | Kuruka           | To jump          |         |
+|  33 | Kusahau          | To forget        |         |
+|  34 | Kukumbuka        | To remember      |         |
+|  35 | Kusafisha        | To clean         |         |
+|  36 | Kukimbia         | To run           |         |
+|  37 | Kujaribu         | To try           |         |
+|  38 | Kuvunja          | To break         |         |
+|  39 | Kugusa           | To touch         |         |
+|  40 | Kukumbatia       | To embrace       |         |
+|  41 | Kupumzika        | To rest          |         |
+|  42 | Kuoga            | To bathe         |         |
+|  43 | Kuimba           | To sing          |         |
+|  44 | Kurudi           | To return        |         |
+|  45 | Kuwasha          | To light/ignite  |         |
+|  46 | Kucheza          | To dance         |         |
+|  47 | Kukumbatia       | To hug           |         |
+|  48 | Kuvaa            | To wear          |         |
+|  49 | Kuamka           | To wake up       |         |
+|  50 | Kukusanya        | To gather        |         |
+|  51 | Kusindikiza      | To accompany     |         |
+|  52 | Kufikiria        | To imagine       |         |
+|  53 | Kufanya mazoezi  | To exercise      |         |
+|  54 | Kukubali         | To accept        |         |
+|  55 | Kukosoa          | To criticize     |         |
+|  56 | Kufunga mkataba  | To make an agreement |       |
+|  57 | Kujibu           | To respond       |         |
+|  58 | Kuruhusu         | To allow         |         |
+|  59 | Kusahihisha      | To correct       |         |
+|  60 | Kufanya kazi pamoja | To collaborate |         |
+|  61 | Kukubaliana      | To agree         |         |
+|  62 | Kukataa          | To refuse        |         |
+|  63 | Kusamehe         | To forgive       |         |
+|  64 | Kuvumilia        | To tolerate      |         |
+|  65 | Kuacha           | To leave         |         |
+|  66 | Kufika kwa wakati | To be punctual  |         |
+|  67 | Kukimbia         | To escape        |         |
+|  68 | Kuchangia        | To contribute    |         |
+|  69 | Kusimamia        | To manage/supervise |     |
+|  70 | Kufundisha       | To train         |         |
+|  71 | Kuhitaji         | To need          |         |
+|  72 | Kuandika         | To write         |         |
+|  73 | Kuridhika        | To be satisfied  |         |
+|  74 | Kuunda           | To create        |         |
+|  75 | Kujenga          | To build         |         |
+|  76 | Kukaribisha      | To welcome       |         |
+|  77 | Kukosea          | To make a mistake |        |
+|  78 | Kufikirika       | To be imaginable |         |
+|  79 | Kuhudumia        | To serve         |         |
+|  80 | Kukagua          | To inspect       |         |
+|  81 | Kuhakikisha      | To ensure        |         |
+|  82 | Kupendekeza      | To suggest       |         |
+|  83 | Kuwasilisha      | To present       |         |
+|  84 | Kupoteza         | To lose          |         |
+|  85 | Kusafiri         | To travel        |         |
+|  86 | Kuamini          | To believe       |         |
+|  87 | Kufikiria tena   | To reconsider
+
+    |         |
+|  88 | Kuchagua         | To choose        |         |
+|  89 | Kusikiliza       | To listen        |         |
+|  90 | Kuzungumza       | To speak         |         |
+|  91 | Kupenda          | To like          |         |
+|  92 | Kuchukua         | To take          |         |
+|  93 | Kukaribia        | To approach      |         |
+|  94 | Kujifunza        | To learn         |         |
+|  95 | Kupanga           | To arrange       |         |
+|  96 | Kujaribu         | To attempt       |         |
+|  97 | Kufika           | To reach         |         |
+|  98 | Kuchagua         | To select        |         |
+|  99 | Kutoa            | To remove        |         |
+| 100 | Kuwapa           | To give          |         |
+
+Please note that this is a general list of frequently used verbs and may not include all possible variations and forms of each verb.
